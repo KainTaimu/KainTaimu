@@ -13,7 +13,7 @@ Being the largest and most complex codebase I have written — about 10K LoC —
 
 - Code architecture | [transcribe-cs](https://github.com/KainTaimu/transcribe-cs)
 
-A tool that transcribes, translates, and embeds subtitles into video/audio. I wrote it to practice clean code and make use of design patterns such as the composite, observer, and factory patterns. As a result, the architecture allows for easy swapping and extending of transcription and translation providers with minimal refactoring.
+A tool that transcribes, translates, and embeds subtitles into video/audio. I wrote it to practice clean code and make use of design patterns such as the composite, observer, and factory patterns. As a result, the architecture is modular and allows for easy swapping and extending of transcription and translation providers with minimal refactoring.
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![GDScript](https://img.shields.io/badge/GDScript-%2374267B.svg?style=for-the-badge&logo=godotengine&logoColor=white) ![JetBrains](https://img.shields.io/badge/jetbrains-%23000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white) ![Neovim](https://img.shields.io/badge/neovim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white) ![OpenCode](https://img.shields.io/badge/opencode-%23000000.svg?style=for-the-badge&logo=opencode&logoColor=ffffff)
 

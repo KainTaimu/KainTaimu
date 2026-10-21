@@ -9,7 +9,7 @@ The projects that show the best of my abilities are:
 
 A survivors-like game made with Godot and written in C#; you get paid as a contractor to destroy massive hordes of the undead. I wanted to see how far I could push hardware by having thousands of enemies of enemies chasing you at once. Through the use of an entity-component-system, spatial partitioning, object pooling, and GPU compute shaders, the game can handle around 10,000 enemies at once. A 50× increase over the genre-defining game it is inspired by.
 
-Being the largest and most complex codebase I have written — about 10K LoC — it also served as valuable experience on how to work with, debug, and manage such a codebase without resulting in spaghetti code. This is done through extensive use of composition, DI, and the observer pattern to limit coupling between systems.
+Being the largest and most complex codebase I have written — about 10K LoC — it also served as valuable experience on how to work with, debug, and maintain such a codebase without resulting in spaghetti code. This is done through extensive use of composition, DI, and the observer pattern to limit coupling between systems.
 
 - Code architecture | [transcribe-cs](https://github.com/KainTaimu/transcribe-cs)
 
